@@ -3,3 +3,11 @@
 
 
 this is a codespace tester
+
+15/05/2024 -> Creato un foreach loop che ci permette di leggere tutte le coppie chiave valore di $_SERVER .
+
+Ecco lo snippet del codice PHP creato oggi stesso ->  
+
+    foreach ($_SERVER as $key => $value) { 
+        echo "$key : $value " . "\n";
+    }
