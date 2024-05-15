@@ -11,3 +11,6 @@ Ecco lo snippet del codice PHP creato oggi stesso ->
     foreach ($_SERVER as $key => $value) { 
         echo "$key : $value " . "\n";
     }
+
+
+***************************************************************************************************************
